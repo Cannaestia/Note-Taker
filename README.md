@@ -11,38 +11,35 @@
 * [License](#license)
 
 ## Description
-Website used to search information about current games, including genre, ratings, ESRB ratings and visual elements for the games.
+Take and keep track of your notes and reminders! 
 
 ## Instructions
-Search for the game you would like information about. Images as well as game information will populate in the coresponding boxes. 
+Hit the + symbol at the top right of the screen. It will bring up a new note for you to enter in a title and description. Once you have written your note hit the save button. Your notes will be stored the left hand side of the screen. If you want to view the note simply click on that note to view it. 
+
+If you are adding to the code please make sure you have the dependencies installed via npm install in the terminal. 
 
 ## Visuals
-![Gamers Checkpoint](./assets/images/The-Gamers-Checkpoint%20fresh.png)
+![Note-Taker](./public/assets/images/Note-Taker.png)
 
 ## Links
-GitHub: https://github.com/SupernalDeity/gamers-checkpoint
+GitHub: https://github.com/Cannaestia/Note-Taker
 Live Link: https://supernaldeity.github.io/gamers-checkpoint/
 
 ## Roadmap
-- New landing page
-- Links that send you to the store to purchase the game
-- Bugs that need to be squashed 
-- Buttons that repeat names on the storage side
-- Different GIF API that is more relevant to the games
+- finalize the delete button to work
 
 ## Contributing
-Anthony Perez, William Dean, Jennifer Arnold
+Jennifer Arnold
 
 ## Suppport
 Send support ticket to:
 - Cannaestia@gmail.com
-- perezant121@gmail.com
-- will.dean0103@gmail.com
+
 
 ## License 
 MIT License
 
-Copyright (c) [2022] [The Gamers Checkpoint]
+Copyright (c) [2022] [Note-Taker]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
