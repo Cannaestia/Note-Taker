@@ -23,7 +23,7 @@ If you are adding to the code please make sure you have the dependencies install
 
 ## Links
 GitHub: https://github.com/Cannaestia/Note-Taker
-Live Link: https://supernaldeity.github.io/gamers-checkpoint/
+Live Link: 
 
 ## Roadmap
 - finalize the delete button to work
